@@ -1,5 +1,5 @@
 
-import { Cinnamon } from "cinnamon";
+import { Cinnamon } from "cinnamon-library";
 
 import { TrackPiece, P, E } from "../models/TrackPiece.model";
 

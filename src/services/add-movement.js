@@ -1,7 +1,7 @@
 
 import dillx from "dillx";
 
-import { Cinnamon } from "cinnamon";
+import { Cinnamon } from "cinnamon-library";
 
 import { doLinesCollide } from "./do-lines-collide.service";
 
